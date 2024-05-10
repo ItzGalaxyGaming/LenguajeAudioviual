@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/lenguaje audiovisual 1.unity
+    guid: 7cd7539cefe77bc43afed7b1d5fee22e
   m_configObjects: {}
